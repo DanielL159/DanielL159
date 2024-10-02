@@ -16,9 +16,9 @@ I'm passionate about technology and always attend events and workshops, where I 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Oracle DB](https://img.shields.io/badge/-Oracle_DB-333333?style=flat&logo=oracle)
-![SQL e PLSQL](https://img.shields.io/badge/-SQL_e_PL/SQL-33333?style=flat)
+![SQL e PLSQL](https://img.shields.io/badge/-SQL_e_PL/SQL-333333?style=flat)
 ![FastApi](https://img.shields.io/badge/-FastApi-333333?style=flat&logo=fastapi)
-![Java](https://img.shields.io/badge/-Java-33333?style=flat)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat)
 
 
 **Developer Tools**
