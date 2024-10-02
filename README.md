@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-Hey there!  My name is Daniel. I'm a 21-year-old and currently reside in Brasília, Brasil. I'm working at Policia Federal, using Python and Oracle Data Base! I am a Computer Science student at UNIVERSIDADE CATOLICA DE BRASILIA.
+Hello! My name is Daniel. I’m a 21-year-old currently residing in Brasília, Brazil. I work at the Polícia Federal, using Python and Oracle Database. I am a Computer Science student at Universidade Católica de Brasília.
 
 
 
